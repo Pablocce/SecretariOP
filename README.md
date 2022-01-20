@@ -1,4 +1,4 @@
-# SecretariOP
+# SecretariOP (acabado)
 Este es mi primer proyecto como programador, es una aplicación que simula las funciones de un secretario automatizando tareas.
 Funciona mediante una base de datos, el programa facilita al usuario la tarea de informatizar la información, cualquier usuario, tenga o no conocimientos de bases de datos, podrá
 usarla sin problemas.
