@@ -8,3 +8,12 @@ Las funciones que posee en la v4 son las siguientes:
   3) Listado de producto con posibilidad de modificar la cantidad, añadir nuevos, borrarlos, verlos y ver avisos de falta de stock
   4) Listado de notas con posibilidad de añadir, ver y borrarlas.
 
+Thats my first proyect as a developer, it is an aplication that emules the tasks of a secretary.
+It works with a database, the app help you computerizing the information. Any user, wheter or not have knowledge about database 
+will be able to use it.
+The functionalities of the aplication in the v4 are:
+  1) User registration and login
+  2) List of employees, being able to add, modify or update them
+  3) List of products, being able to modify the amount, add new products, delete them and more
+  4) Notes functionality 
+
